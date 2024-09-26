@@ -51,5 +51,5 @@ vendor/vendor\.dll\.js
 vendor/vendor\.dll\.js\.map
 
 yarn-error.log
-.env/
+.env
 pnpm-lock.yaml
